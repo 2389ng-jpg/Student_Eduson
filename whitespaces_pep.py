@@ -4,6 +4,3 @@ if __name__ == '__main':
         print('Hello, world')
 
     print('I am inside main')
-
-
-print('This is feature-1')
